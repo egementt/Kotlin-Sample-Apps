@@ -68,6 +68,10 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="587" y="7" key="CommitChangelistDialog2" timestamp="1614645926823">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="587" y="7" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614645926823" />
     <state x="1220" y="277" key="FileChooserDialogImpl" timestamp="1614115610530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -80,6 +84,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="691" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613951812442" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1614645958123">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614645958123" />
     <state x="260" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614111763886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
