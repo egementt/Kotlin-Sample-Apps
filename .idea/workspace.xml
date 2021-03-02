@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0a896471-2744-4275-a83e-a3977246a6d8" name="Default Changelist" comment="" />
+    <list default="true" id="0a896471-2744-4275-a83e-a3977246a6d8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Kotlin Sample Apps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Kotlin Sample Apps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,17 +40,42 @@
       <option name="presentableId" value="Default" />
       <updated>1613951764733</updated>
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1614645707172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614645707172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="1220" y="277" key="FileChooserDialogImpl" timestamp="1614106339141">
+    <state x="1220" y="277" key="FileChooserDialogImpl" timestamp="1614115610530">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614106339141" />
-    <state x="786" y="418" key="Github.ShareDialog" timestamp="1613951803322">
+    <state x="1220" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614115610530" />
+    <state x="786" y="418" key="Github.ShareDialog" timestamp="1614111944910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="786" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613951803322" />
+    <state x="786" y="418" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1614111944910" />
     <state x="691" y="225" key="Github.UntrackedFilesDialog" timestamp="1613951812442">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
