@@ -32,6 +32,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a896471-2744-4275-a83e-a3977246a6d8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4- Maps App Kotlin/app/src/debug/res/values/google_maps_api.xml" beforeDir="false" afterPath="$PROJECT_DIR$/4- Maps App Kotlin/app/src/debug/res/values/google_maps_api.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614646028805</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit">
+      <created>1614688381884</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614688381884</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -123,14 +131,14 @@
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="587" y="7" key="CommitChangelistDialog2" timestamp="1614646028019">
+    <state x="587" y="7" key="CommitChangelistDialog2" timestamp="1614688380357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="587" y="7" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614646028019" />
-    <state x="1220" y="277" key="FileChooserDialogImpl" timestamp="1614115610530">
+    <state x="587" y="7" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1614688380357" />
+    <state x="1220" y="277" key="FileChooserDialogImpl" timestamp="1614696061791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1220" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614115610530" />
+    <state x="1220" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1614696061791" />
     <state x="786" y="418" key="Github.ShareDialog" timestamp="1614111944910">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -139,10 +147,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="691" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613951812442" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1614646040782">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1614688390074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614646040782" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1614688390074" />
     <state x="260" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614111763886">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
